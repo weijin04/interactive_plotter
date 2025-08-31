@@ -104,6 +104,11 @@ Standard Excel files with headers in the first row are supported.
 - **Columns not showing**: Check that numeric columns are properly formatted
 - **Plot errors**: Verify data types match the selected plot type
 
+
+## Screenshot
+<img width="1354" height="897" alt="截屏2025-08-31 05 11 55" src="https://github.com/user-attachments/assets/e298d883-74ba-4b9b-90f7-5d2af1a376b2" />
+
+
 ## License
 
 MIT License - Free for academic and commercial use
